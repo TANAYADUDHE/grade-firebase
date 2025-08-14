@@ -1,1 +1,1 @@
-This is the grade system using firebase project.
+This is the grade system using firebase project.Display the garde accoding the percentage.
