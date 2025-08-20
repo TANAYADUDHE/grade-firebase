@@ -1,1 +1,1 @@
-This is the grade system using firebase project.
+Grade system using firebase project.
